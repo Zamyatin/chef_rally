@@ -1,0 +1,6 @@
+**/.chef
+*.pem
+**/.keys
+*.envrc
+**/logs
+**/.kitchen
